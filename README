@@ -1,0 +1,18 @@
+This is a Magento plugin for TaxCloud I wrote back in 2013. It worked on
+Magento 1.6 and with the TaxCloud API as of that time. I happened to be
+reminded of it recently, so decided to toss it up on Github in case
+someone might find it useful.
+
+I don't know if it still works now (June 2015) or not, so use at your own
+risk. Hopefully you will find it useful as a starting point. At the time,
+the commercial TaxCloud plugin did not yet exist. If it still works, I'd
+be interested to know.
+
+The USPS library used by (and distributed with) this module is from
+github.com/VinceG/USPS-php-api
+
+License is GPLv2, so if you distribute it you must release any changes you
+make. If you, the store owner, modify it for your own use, you are allowed
+to keep the changes to yourself. If you are a consultant modifying it for
+a customer, you must provide that customer (and preferably, but not
+required, the public) the source code of this extension.
