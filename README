@@ -1,5 +1,5 @@
 This is a Magento plugin for TaxCloud I wrote back in 2013. It worked on
-Magento 1.6 and with the TaxCloud API as of that time. I happened to be
+Magento 1.6 and 1.7 with the TaxCloud API as of that time. I happened to be
 reminded of it recently, so decided to toss it up on Github in case
 someone might find it useful.
 
